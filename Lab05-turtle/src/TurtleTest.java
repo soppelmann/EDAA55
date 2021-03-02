@@ -57,7 +57,7 @@ public class TurtleTest {
         t2.penUp();
 
         w.moveTo(280, 30);
-        w.writeText("Nedan ska vara tomt");
+        w.writeText("Nedan ska vara tomt"); //testar om penup funkar
 
         t1.left(-90);
         t2.left(90);
